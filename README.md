@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Anand
-- 👀 I’m interested in to develop a platform which help people to share their idea and learm from others too.
+- 👀 I’m enthusistic to develop a platform which help people to share their ideas and learm from each other.
 - 🌱 I’m currently working in HCL Techlogies.
-- 💞️ I’m looking to collaborate on anything that has give me oportunity to get my dream on.
-- 📫 Anybody can reach me out through my email: mksaarya@gmail.com
+- 💞️ I’m always ready to collaborate with people.
+- 📫 Please feel free to reach me out through my email: mksaarya@gmail.com;
+  :)
 
 <!---
 anand-man/anand-man is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
