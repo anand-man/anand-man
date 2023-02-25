@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Anand
+- 👋 Hi, I'm Maneesh KS
 - 👀 I’m enthusistic to develop a platform which help people to share their ideas and learm from each other.
 - 🌱 I’m currently working in HCL Techlogies.
 - 💞️ I’m always ready to collaborate with people.
