@@ -1,8 +1,10 @@
-- 👋 Hi, I'm Maneesh KS
-- 👀 I’m enthusistic to develop a platform which help people to share their ideas and learm from each other.
-- 🌱 I’m currently working in HCL Techlogies.
+- 👋 Hi, I am Maneesh KS
+- 👀 I’m always looking forward to learn skills and make things easier to use.
+- 🌱 Currently working in HCL Techlogies.
 - 💞️ I’m always ready to collaborate with people.
-- 📫 Please feel free to reach me out through my email: mksaarya@gmail.com;
+- 📫 Please feel free to connect with me.
+- Email: mksaarya@gmail.com.
+- LinkdIn: www.linkedin.com/in/maneeshks-69a2a61a2
   :)
 
 <!---
