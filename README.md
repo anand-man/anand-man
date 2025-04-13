@@ -30,14 +30,9 @@ Welcome to my GitHub! I'm a passionate developer who loves solving real-world pr
 
 Here are a few projects I'm proud of:
 
-- 🔗 *Coming soon!* (reactSampleProject)
+- 🔗 *Fake shoping store* ([reactSampleProject](https://github.com/anand-man/reactSampleProject?tab=readme-ov-file))
 
 ---
-
-## 📊 GitHub Stats
-
-![Maneesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maneeshks&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maneeshks&layout=compact&theme=radical)
 
 ---
 
