@@ -53,6 +53,6 @@ Here are a few projects I'm proud of:
 ## 🌐 Let's Connect!
 
 - 📫 **Email:** [mksaarya@gmail.com](mailto:mksaarya@gmail.com)
-- 🔗 **LinkedIn:** [www.linkedin.com]([https://www.linkedin.com/in/maneeshks-69a2a61a2](https://www.linkedin.com/in/maneesh-ks-from-north/))
+- 🔗 **LinkedIn:** [https://www.linkedin.com/in/maneesh-ks-from-north/]((https://www.linkedin.com/in/maneesh-ks-from-north/))
 
 Looking forward to connecting and building cool stuff together! 😊
